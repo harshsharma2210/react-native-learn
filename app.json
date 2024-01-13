@@ -8,6 +8,7 @@
       "expo-router"
     ],
     "name": "mobile",
-    "slug": "mobile"
+    "slug": "mobile",
+    "sdkversion": ""
   }
 }
